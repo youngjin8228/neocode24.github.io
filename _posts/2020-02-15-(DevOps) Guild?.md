@@ -25,7 +25,9 @@ toc: true
 
 ### 유명한 Spotify의 사례
 
-Indentation matters. Be sure the indent of the code block aligns with the first non-space character after the list item marker (e.g., `1.`). Usually this will mean indenting 3 spaces instead of 4.
+Spotify는 약 2억명의 고객을 보유한 세계 1위 음악 스트리밍 업체로, 최근 국내 인력 채용공고와 저작권 신탁 단체등과의 음원 배분율 논의가 뉴스화되며 국내 출시를 앞두고 있다고 떠들석한 기업이다.
+
+이러한 Spotify는 Agile 키워드와 함께 구글링 하면, 수많은 도입사례에 대한 포스팅이 존재한다. 오늘은 Spotify의 Agile Guild 문화를 보다 상세히 분석하여 정리하고, 우리에게 어떤 시사점이 주어질 수 있는지 확인해 보자.
 
 
 
